@@ -1,16 +1,10 @@
-# chat_app3
+# Chat App
 
-A new Flutter project.
+App concept created with [Flutter](https://flutter.dev/) using Dart programming language.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project is designed that represent a chat app using Firebase as backend, every user could make an account to get into the chat and store his data (E-mail / user name / password / user image), and start the chatting through the app wite other users.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Notes
+this project i built it with Flutter SDK >=1.26.13
